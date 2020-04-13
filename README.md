@@ -6,4 +6,6 @@ Use these assets for Content Creation, Skin Designing, Map Making, & other media
 You can also use the ‘Modding Template’ directories within the KEA.zip to build mod files from scratch.
  Note: Do not use the directory layout of the KEA.zip in your mods, use the 'Modding Template' section or the 'Defualt_Mod' file for them.
 
+Head over to [releases](/releases) to download it!
+
 Join the [support server](https://discord.gg/cb2ykDA)
