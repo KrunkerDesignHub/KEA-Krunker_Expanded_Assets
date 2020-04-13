@@ -1,0 +1,11 @@
+--Current In-game Chat Commands--
+
+# Host Commands:
+- /kick [player name] (kicks player)
+- /ban [player name] (bans player)
+
+# Player Commands:
+- /connected (view current players connected and who are in the menu)
+
+# Developer Commands:
+[Confidential]

@@ -1,0 +1,79 @@
+--- Map Config ---
+name = name
+ambInd = ? (ambient index?)
+modURL = mod url (dropbox link)
+shadowR = shadow Res
+ambient = ambient light
+light = light color
+sky = sky color (when sky dome is false/off)
+fog = fog color
+fogD = fog distance
+dthY = default deathzone height
+camPos = camera position (object)
+spawns = spawn positions
+modes = specified gamemodes (used for official in-rotation maps)
+
+*sizeMlt = size multiplier? (2 = default)
+
+--- Terrain Config ---
+terrainSeed = terrain seed
+terrainWidth = terrain width (width)
+terrainHeight = terrain height (length)
+terrainMntMlt = terrain mountain height
+terrainMntCol = terrain mountain color
+terrainGrsCol = terrain grass color
+terrainDrtCol = terrain dirt color
+
+--- Sky Config ---
+skyDome = true or false
+skyDomeCol0 = sky color 1
+skyDomeCol1 = sky color 2
+skyDomeCol2 = sky color 3
+
+--- Spawns ---
+" " - x,y,z, team (team absent by default unless specified)
+
+--- Object id (i) ---
+0 = cube
+1 = crate
+2 = barrel
+3 = ladder
+4 = plane
+5 = spawnpoint (no longer used?)
+6 = camera position (no longer used?)
+7 = vehicle
+8 = stack
+9 = ramp
+10 = score zone
+11 = billboard
+12 = death zone
+13 = particles
+14 = objective (hardpoint zone)
+15 = tree
+16 = cone
+17 = container (blue)
+18 = grass
+19 = containerr (red)
+20 = acidbarrel
+21 = door
+22 = window
+23 = flag
+24 = water
+25 = check point
+26 = weapon pickup
+
+--- Object Config ---
+p = position [x,y,z]
+s = size [x,y,z]
+id = object identifier (type of object, see above)
+l = collidable (1 = not collidable, absent by default)
+pe = penetrable (1 = penetrable, absent by default)
+v = visible (1 = not visible, absent by default)
+b = boost (for ramps, absent by default)
+d = direction (for ramps and ladders, 0=+x, 1=+z, 2=-x, 3=-z)
+hp = object health
+c = color
+e = emissive
+o = opacity
+t = texture
+ts = texture speed

@@ -1,0 +1,12 @@
+READ ME - delete this file if using the directory in your mod.zip
+---
+Key - ['filename.ttf' (name of the font used)]
+---
+The 'css' directory contains the font files for the game and menus (\css\fonts).
+
+The font list and file names are as follows:
+- 'header.ttf' (Warp Thruster Condensed)
+- 'font1.ttf' (ArmWrestler)
+- 'font2.ttf' (FFF Forward)
+- 'font4.ttf' (Wide awake Black)
+

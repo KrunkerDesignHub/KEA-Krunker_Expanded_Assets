@@ -1,0 +1,192 @@
+Krunker Expanded Assets.zip (KEA.zip)
+
+This is a compilation of extended assets and resources from Krunker.io and the community 
+catered to Map Designers, Skin/Item Creators, Media Creators/Animators etc. Included, you should 
+be able to find anything you'll need resource wise from Krunker. If you have any suggestions, 
+know of anything missing, or see something needs updated, let the file managers know!
+
+File Managers:
+Jytesh#3241
+
+File Creator:
+Solar13#3285
+
+------------------------------------------------------------------------------------------------
+v1.2.2 //Update 2.1.4
+-Renamed most new weapons
+-Added new shotgun
+-Added AOs for ALL weapons
+-Added new Map pics
+-Added some new Menu Icons(Infected,Logo_2,Challenge)
+-Deleted KEA-Cosmetics in favour of Bots and mod.zip
+-Updated Mod structure
+v1.2.1 //Update 2.0.0
+-Added Coroller
+-Added Saw
+-Added Jagdfaust
+-Added Challenge Icons to Menu and UI
+v1.2
+-added karambit
+v1.1.10
+-updated Flame Tamer Texture
+-added Revolver models and textures.
+-updated Intervention VI Texture
+-added new spray(37 - Nudah)
+-created new Cosmetics file(Separate from KEA) and removed all In-game Skins and previews(you can find it in Cosmetics file from now on)
+
+v1.1.9
+-updated intervention texture
+-added previous intervention texture to throwbacks
+-added colored UV Guides in respective weapon folder for 
+1.AWP & Intervention
+2.Assault Rifle
+3.SMG
+4.Shotgun
+5.Famas
+6.Semi-Auto
+7.Revolver								
+
+v1.1.8
+- updated famas files to weapon_15 vs previous 18 (\Weapons & Items\Weapons)
+- added old weapon 15, first crossbow version, to 'Throwbacks' (\Sounds & Media\Throwbacks\Weapons)
+- added teddy_0 prop files (\Maps\Models)
+- updated spawn point model and  texture (\Maps\Models)
+- updated smg, weapon_4 files (\Weapons & Items\Weapons)
+- updated client download links (\Tools & Guides\Links)
+- added intervention, sniper files (\Weapons & Items\Weapons\weapon_1 (Sniper))
+- added OG weapon and other files to throwbacks, courtesy via .Kieran. (\Sounds & Media\Throwbacks)
+- added hat_33 files (\Weapons & Items\Hats)
+- added most updated preview images, weapons & cosmetics, courtesy via Jytesh (\Misc\Previews)
+
+v1.1.7
+- added melee and other updated folders, moved attachments folder up one directory (\Weapons & Items)
+- switched around the Preview Icons sub-directories, added Maps previews, renamed to folder to 'Previews' (\Misc\Previews)
+- added knife and hatchet skins and models (\Weapons & Items\Melee)
+- added famas skins, model, and sound (\Weapons & Items\Weapons)
+- added knife, hatchet, and famas weapon icons (\Misc\In-Game\Weapon Icons)
+- added old melee_0 (hands) icon to throwbacks (\Sounds & Media\Throwbacks\Melee)
+- updated tree and grass textures (\Maps\Models)
+- updated link texture (\Maps\Textures)
+- added FaZe spray file (\Misc\Sprays)
+- added icon_12 (Commando Class) file (\Misc\Preview Icons\Class Icons)
+- added taunt sounds, 1-4 (\Sounds & Media\Sounds\Misc)
+- added fart sound, used for hacker tagged accounts (\Sounds & Media\Sounds\Misc)
+- added map layout/callout images, courtesy via SLYMEX#1337 (\Maps\Official Maps\Layouts)
+- added melee preview images (\Misc\Previews\Melee)
+
+v1.1.6
+- added sniper and shotgun texture files that have no shading/ao embedded (\Weapons & Items\Weapons)
+- added updated kanji and sandstorm map files, older versions moved to throwbacks (\Maps\Official Maps)
+- updated 'recticle.png' file (\Misc\In-game)
+- updated social icons, older versions moved to throwbacks (\Misc\Menu & UI\Social Icons)
+- updated 'brick_0.png', older version moved to throwbacks (\Maps\Textures)
+- added MooMoo.io billboard, 'b_5.png' (\Maps\Textures\Billboards)
+- added 'ambient_4.mp3', marketplace music sound file (\Sounds & Media\Sounds\Misc)
+- updated adsdot texture file (\Weapons & Items\Weapons\Attachments)
+- added flap_0.obj and texture/UV files (\Weapons & Items\Weapons\Attachments)
+- updated Krunker logo image 'logo_1.png' (\Misc\Menu & UI)
+- added client version logos, windows/mac/linux (\Misc\Menu & UI)
+- added 'hp_0.png', health icon, and 'skull_1.png', deaths count icon, replaced OG death_counter.png (\Misc\In-game)
+- added 'merch.png' (\Misc\Menu & UI)
+- added 'icon_g.png', class icon on social/market pages (\Misc\Preview Icons\Class Icons)
+- updated 'blood.png', older version moved to throwbacks (\Misc\In-game)
+- added 'Anomaly' spray, '35' (\Misc\Sprays)
+- added new tv head model and textures/UV, 'hat_31' (\Weapons & Items\Hats)
+- added Jytesh's runner rig .blend file (\Sounds & Media\Custom Models)
+
+v1.1.5
+- added spray 34 (\Misc\Sprays)
+- added updated official map files with the added border objectsand fixes (\Maps\Official Maps)
+- added 'Bazaar' map file (\Maps\Official Maps)
+- updated in-game weapon icon images, they were flipped, added old versions to 'Throwbacks' (\Misc\In-game\Weapon Icons)
+- updated shotgun and rocket launcher files (\Weapons & Items\Weapons)
+- added new shotgun skins (\Weapons & Items\Weapons\Weapon_6\In-game Skins)
+- updated tree texture and model (\Maps\Models)
+- updated dirt and wall textures (\Maps\Textures)
+- updated reticle image (\Misc\In-game)
+- updated 'weapon_1' and 'hit_0' sound files (\Sounds & Media\Sounds)
+- added 'ambient_3' Desert sound file (\Sounds & Media\Sounds\Misc)
+- added 'reward', 'buy_1', & 'cheer_0' sound files (\Sounds & Media\Sounds\Misc)
+- updated all official map files, rotated spawnpoints etc. (\Maps\Official Maps)
+- added some throwbacks (\Sounds & Media\Throwbacks)
+
+v1.1.4
+- updated new rank/levels icons and updated modding template info, added old ones to 'Throwbacks' (\Misc\Ranks)
+- updated all weapon models (\Weapons & Items\Weapons)
+- updated red dot sight model and texture, added old one to 'Throwbacks' (\Weapons & Items\Weapons\Attachments)
+- added new ak skins, 58 & 59 (\Weapons & Items\Weapons\weapon_2\In-game Skins)
+- updated ak sound, added old one to 'Throwbacks' (\Sounds & Media\Sounds\Weapons)
+- updated and added new in-game sniper skins (\Weapons & Items\Weapons\weapon_1\In-game Skins)
+- added 'flags' to the img directories. Updated 'Modding Template', oce, na, eu (\Misc.\Menu & UI\Flags)
+- added the two new sprays, 32, 33 (\Misc\Sprays)
+- updated cosmetic preview images and 'Modding Template' info, moved old ones to 'Throwbacks' (\Misc\Preview Icons\Cosmetics)
+- switched around and renamed some directories in 'Misc' directory (\Misc)
+
+v1.1.3
+- added client download link for mac & linux versions (\Tools & Guides\Links)
+- added two playermodel rigs, .blend, via Hoodgail (\Sounds & Media\Custom Models\Rigs)
+- added 3rd player model rig, .blend, via Ikster (\Sounds & Media\Custom Models\Rigs)
+- added in custom models .obj/.mlt/.gltf of current official maps, shoutouts to CobaltXII, floatingpoint, Tech (\Sounds & Media\Custom Models\Maps)
+- added 'arms' .gltf files, courtesy via Tech (\Sounds & Media\Custom Models\Player Models)
+- updated 'Map Code Variables Key' to accomadate the map file compression changes + added obj id's (\Tools & Guides\Mapping)
+- added 'gun game' to 'Gamemode Details' (\Tools & Guides\General)
+- updated rocket launcher model, textures, & UV files (\Weapons & Items\Weapons\weapon_9)
+- updated rocket launcher in-game skin files (\Weapons & Items\Weapons\weapon_9\In-game skins)
+- added older version of rocket launcher files to Throwbacks (\Sounds & Media\Throwbacks\Weapons)
+- added 'pick_0.mp3', weapon pickup sound (\Sounds & Media\Sounds\Action)
+- added spray 31, 'deal with it spray' (\Misc\Sprays)
+- updated 'Kanji' map file (\Maps\Official Maps)
+- added new relic wings, 'Diablo Wings', body_10.obj/.png files (\Weapons & Items\Body)
+- added the new in-game skins, 'Gold Rush' (AK) & 'Mortal' (AK) (\Weapons & Items\Weapons\weapon_2 (Assault Rifle)\In-game Skins)
+- updated 'samurai blades' body item, older files moved to 'Throwbacks' (\Weapons & Items\Body\body_2.obj/.png)
+- added `Map to Wavefront (obj-mtl) Converter` link, courtesy via CobaltXII, (\Tools & Guides\General)
+
+v1.1.2
+- added Joe's billboard to throwback files, first billboard in-game (\Sounds & Media\Throwbacks\Maps\Models)
+- added 'noimage.png' (missing thumbnail image)
+- corrected and updated some 'mod template' files/names
+- added 'Kanji' to official maps (\Maps\Official Maps)
+- updated lmg model, textures, & UV files (\Weapons & Items\Weapons\weapon_7)
+- updated lmg in-game skin files (\Weapons & Items\Weapons\weapon_7\In-game skins)
+- updated deagle model, textures, & UV files (\Weapons & Items\Weapons\weapon_11)
+- updated crossbow model, textures, & UV files (\Weapons & Items\Weapons\weapon_17)
+- updated crossbow weapon icon (Misc\Weapon Icons)
+- added crossbow class icon and larger icon version (Misc\Class Icons\Class Icons)
+- updated red dot sight model, texture, & UV files (\Weapons & Items\Weapons\Attachments)
+- added 'link_0.png' texture image (\Maps\Textures)
+- updated some sounds (steps, updated weapons)
+- added 'spray.mp3' sound (Sounds & Media\Sounds\Action)
+- added new billboard images, 'b_1-b_4' (\Maps\Textures\Billboards)
+- added new sprays, 27-30 (\Misc\Sprays)
+- archived older weapon '_ao' & '_e' files into Throwbacks that aren't used any longer but remain in game files (\Sounds & Media\Throwbacks\Weapons)
+- added older files to throwbacks (\Sounds & Media\Throwbacks)
+- added 'ambient_2.mp3', 'kanji' map ambient sound track (\Sounds & Media\Sounds\Misc)
+
+v1.1.1
+- added cosmetic previews (\Misc\Class Icons\Cosmetics)
+- added 'Modding Template' directories w/ 'read me' files (/Tools & Guides) [WIP]
+- added 'Viewer URL Parameters.txt' (\Tools & Guides\Skin & Model Creaton)
+- added some tutorials for skin creation and map making (updated ones in the future)
+- added the updated crossbow model, texture, sound, weapon icon, class icon, & UV (may not be final still)
+- fixed and added additional links (\Tools & Guides\Links)
+- added and updated some custom models (\Sounds & Media\Custom Models)
+- added official current in-game map files (\Maps\Offical Maps)
+- added a small list of client shortcuts (\Tools & Guides\General)
+- added the start of the 'Throwbacks' directory [maps, weapons, models, textures, etc.] (\Sounds & Media\Throwbacks)
+- added throwback rotation maps and older weapon skins and models + some others
+- added social icons and button-normal.png (\Misc\Menu & UI\Social Icons)
+- added 'spawn_0' model and texture (this was the same custom runner.obj that was in 'Custom Models' (\Maps\Models)
+- duplicated 'runner_UV' and renamed and moved to 'spawn_0_UV' (\Maps\Models)
+- updated 'Littletown' map files (\Maps\Official Maps) & (\Sounds & Media\Throwbacks\Maps\Official Maps (old))
+
+v1.1.0
+- added UV's for hats, body items, and attachements
+- added verification.png among a few other small additions
+- removed some duplicates
+- added krunker links to 'Tools & Guides'
+- moved around and renamed some directories
+- download link changed (edited in posts)
+
+v1.0.0
+- compiled assets manually via Krunker.io
+- released to public

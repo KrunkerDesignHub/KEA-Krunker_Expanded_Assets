@@ -1,0 +1,7 @@
+Client Shortcuts
+
+tab = player list (kick, ban, etc.)
+Ctrl+tab = 'Pick where you want to go" menu (new match, map editor, social, etc.)
+Shift+tab = input url
+f5 = refresh/clear cache
+f11 = enable/disable fullscreen

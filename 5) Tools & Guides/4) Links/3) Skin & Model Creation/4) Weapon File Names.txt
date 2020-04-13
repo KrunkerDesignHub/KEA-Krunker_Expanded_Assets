@@ -1,0 +1,22 @@
+--- Weapon File Names --- (courtesy via JJ_G4M3R)
+weapon_1 = Sniper Rifl
+weapon_2 = Assault Rifle (AR)
+weapon_3 = Pistol
+weapon_4 = Sub-Machine Gun (SMG)
+weapon_5 = Revolver
+weapon_6 = Shotgun
+weapon_7 = Light Machine Gun (LMG)
+weapon_8 = Semi_Auto
+weapon_9 = Rocket Launcher
+weapon_10 = Akimbo Uzis
+weapon_11 = Deagle
+weapon_12 = Tec 9 (not in-game, scrapped)
+weapon_13 = Alien Blaster
+weapon_14 = Riot Shield (not in-game, soon™)
+weapon_15 = Crossbow_old (not in-game, scrapped)
+weapon_16 = Flame Thrower (not in-game, soon™)
+weapon_17 = Crossbow (not in-game, soon™)
+
+--- Alternate Weapon Skin Files --- (courtesy via floatingpoint)
+weapon_x_e - is an emission map, which tells Krunker which parts of your skin emit light.
+weapon_x_ao - is the baked-in lighting of a model, and isn't critical in skin creation.

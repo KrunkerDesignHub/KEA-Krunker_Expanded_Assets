@@ -1,0 +1,12 @@
+For Editing the Texture File via a 3D Model/.obj File in Photoshop:
+---
+Open up the .obj file (3d model) of the weapon/object and double click the 
+'material/default texture' layer. It will then open up a new window with the 
+texture UV's (wireframe outlines). You can edit your texture on this alone, 
+or you can import the default/regular texture .png into this window. 
+The sizing/ratio should be the same and fit the UV outlines. When you want 
+to view the texture on the 3D model window, just go back to that window and PS 
+should automatically update it (depending on the version). If not, just press save 
+on the material/default texture window. Always good to do that anyways.
+
+(For easy previewing on the model real time etc.)

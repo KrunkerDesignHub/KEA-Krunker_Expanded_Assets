@@ -1,0 +1,101 @@
+Gamemode Details:
+
+#Free For All (ffa)
+- everyone vs everyone
+- any weapon/class
+
+#Team Deathmatch (tdm)
+- 2 teams
+- versus each other
+- any weapon/class
+
+#Hardpoint (point)
+- 2 teams
+- teams fight over hard point zones to gain points
+- +10 points a second in zones
+- zones switch every minute of the match
+- team with the most zone points wins
+- any weapon/class
+
+#Capture the Flag (ctf)
+- 2 teams
+- teams try to capture each other's flag
+- can't score unless your flag is at homebase
+- team with the most flag caps wins
+- any weapon/class
+
+#Parkour (bhop)
+- 1 team
+- no killing
+- any weapon/class
+
+#Hide & Seek (hide) 
+- 2+ players
+- 2 teams
+- hiders and seekers
+- seekers are chosen after 10 sec and are blinded for 45 sec
+- nametags are hidden by default
+- seekers win when all hiders are found, hiders win when time limit is reached
+- hands only
+
+#Infected (infect)
+- 2+ players
+- 2 teams
+- humans and infected
+- infected are chosen after 20 sec and respawn
+- infected try to 'touch' humans to infect them and the humans respawn as infected
+- infected have higher stats and are hands only
+- infected win when all humans are infected, humans win when time limit is reached
+- any weapon/class as humans
+
+#Race (race)
+- 1 team
+- rounds start after 15 sec
+- rounds end after all 'point zones' are gathered
+- hands only
+
+#Simon Says (simon)
+- host is 'simon' (similar to boss in boss hunt)
+- other players must roleplay along and listen to simon
+- simon can die but has 5000 hp
+- mostly custom rules determined by the host and/or map
+- any weapon/class
+
+#Gun Game (gun)
+- ffa verses everyone
+- start with pistol and work your way up through all weapons. 
+- 1 kill = next weapon
+- first to get kills with all weapons wins (currently 12)
+- all weapons, starts with pistol
+
+#Last Man Standing (lms)
+- ffa verses everyone
+- 1 live
+- last player alive wins
+- any weapon/class
+
+
+Old Gamemodes:
+
+#Social (social)
+- pretty much the same as Parkour but hands only
+
+#Competitive (comp)
+- ffa verses everyone
+- rounds start after 20 sec
+- 10 min rounds by default
+- slower health regen (20 sec vs 10 sec)
+- first to 10 kills wins
+- any weapon/class
+
+#Boss Hunt (boss)
+- 2+ players
+- 2 teams
+- regular and boss
+- boss is chosen after 15 sec
+- boss has 5000 hp
+- players must try to kill the boss to win
+- any weapon/class
+
+
+*Round times are 4 min by default and 15 seconds in between rounds.

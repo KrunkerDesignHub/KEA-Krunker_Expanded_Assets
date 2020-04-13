@@ -1,0 +1,16 @@
+Viewer URL Parameters:
+(krunker.io/viewer.html?x=y) - replace x and y with paramteters
+
+#Player Parameters:
+swap - set to true if you want to show secondary
+skinIdP - id of primary weapon skin
+skinIdS - id of secondary weapon skin
+hat - id of hat
+back - id of back/body
+secIndex = secondary weapon id
+class = class id
+hidePlayer = set to true to hide player model
+nogui = set to true to hide gui
+
+#Dev Parameters:
+[Confidential]

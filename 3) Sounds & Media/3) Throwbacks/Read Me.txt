@@ -1,0 +1,7 @@
+*Note: These are older versions of maps, weapons, models, etc.
+They are no longer in the game officially and can be used 
+for modding, videos, and other media purposes.
+
+If you have anything to contribute, please reach out!
+
+IMPORTANT: Be sure to delete '_old' at the end of files and they have the correct file names if you decide to use them.

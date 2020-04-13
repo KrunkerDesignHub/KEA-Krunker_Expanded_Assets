@@ -1,0 +1,27 @@
+--- Weapon File Names --- (courtesy via JJ_G4M3R)
+weapon_1 = Sniper Rifl
+weapon_2 = Assault Rifle (AR)
+weapon_3 = Pistol
+weapon_4 = Sub-Machine Gun (SMG)
+weapon_5 = Revolver
+weapon_6 = Shotgun
+weapon_7 = Light Machine Gun (LMG)
+weapon_8 = Semi_Auto
+weapon_9 = Rocket Launcher
+weapon_10 = Akimbo Uzis
+weapon_11 = Deagle
+weapon_12 = Alien Blaster
+weapon_14 = Crossbow
+weapon_15 = Famas
+weapon_16 = Sawed off
+
+---Scale---
+All the objs are scaled up for optimization by Vince, to use it in a 3D program please scale it down.Although if you want to use it in a model mod it needs to be scaled up.
+
+--- Melee Weapon File Names ---
+melee_0 = Combat Knife
+melee_1 = Hatchet
+
+--- Alternate Weapon Skin Files --- (courtesy via floatingpoint)
+weapon_x_e - is an emission map, which tells Krunker which parts of your skin emit light.
+weapon_x_ao - is the baked-in lighting of a model, and isn't critical in skin creation.
