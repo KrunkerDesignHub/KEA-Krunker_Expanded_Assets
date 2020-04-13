@@ -12,6 +12,9 @@ File Creator:
 Solar13#3285
 
 ------------------------------------------------------------------------------------------------
+v1.2.2.1
+-Added new Map Files
+-Added new Map Models
 v1.2.2 //Update 2.1.4
 -Renamed most new weapons
 -Added new shotgun
