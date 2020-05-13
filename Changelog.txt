@@ -7,6 +7,7 @@ know of anything missing, or see something needs updated, let the file managers 
 
 File Managers:
 Jytesh#3241
+DukeV
 
 File Creator:
 Solar13#3285
@@ -15,6 +16,7 @@ Solar13#3285
 v1.2.2.1
 -Added new Map Files
 -Added new Map Models
+-Added weapon templates for skin making(Sniper,AK,SMG,Rev,Shotgun and Famas{Courtesy of Nxbulah})
 v1.2.2 //Update 2.1.4
 -Renamed most new weapons
 -Added new shotgun

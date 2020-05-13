@@ -11,4 +11,5 @@ Shoutouts to the contributors!
 - arms .gltf files (Tech)
 - runner_final_jytesh, .blend rig and .obj (Jytesh)
 - textured map models, .objs and .mtl files of all Official Maps (GNU/Ninja#7650)
+- templates for Skin Making (Nxbulah#4939)
 If you would like to contribute any custom models, animation rigs, or any other custom assets, please reach out!
