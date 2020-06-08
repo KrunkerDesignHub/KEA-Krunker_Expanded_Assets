@@ -13,6 +13,14 @@ File Creator:
 Solar13#3285
 
 ------------------------------------------------------------------------------------------------
+v1.2.3 //Update 2.4.8 Season 3
+-Added new Semi Auto
+-Added new Akimbo Uzis
+-Added Antimatter and Good Ol Days Sniper models and textures
+-Added Machine Pistol
+-Added new pat texture(8.png)
+-Added skins.json(5)Tools $ Guides>3)Skin & Model Creation>skins.json)
+-New sprays weren't added due to the page loading indefinitely, if anyone doesn't have this issue please contact a manager.
 v1.2.2.1
 -Added new Map Files
 -Added new Map Models
