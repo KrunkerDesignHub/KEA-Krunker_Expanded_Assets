@@ -13,6 +13,8 @@ File Creator:
 Solar13#3285
 
 ------------------------------------------------------------------------------------------------
+v1.2.3.1
+-Added all new Sprays,(GNU/Ninja added them via Pull Request)
 v1.2.3 //Update 2.4.8 Season 3
 -Added new Semi Auto
 -Added new Akimbo Uzis
