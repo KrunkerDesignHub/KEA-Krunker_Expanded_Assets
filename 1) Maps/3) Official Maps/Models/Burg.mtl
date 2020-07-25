@@ -30,749 +30,538 @@ newmtl BillboardMaterial2
 map_Kd textures/b_3.png
 newmtl BillboardMaterial3
 map_Kd textures/b_4.png
-newmtl TexMat0
-map_Kd textures/wall_0.png
-newmtl TexMat1
-map_Kd textures/dirt_0.png
-newmtl TexMat2
-map_Kd textures/floor_0.png
-newmtl TexMat3
-map_Kd textures/grid_0.png
-newmtl TexMat4
-map_Kd textures/grey_0.png
-newmtl TexMat5
-map_Kd textures/roof_0.png
-newmtl TexMat6
-map_Kd textures/flag_0.png
-newmtl TexMat7
-map_Kd textures/check_0.png
-newmtl TexMat8
-map_Kd textures/grass_1.png
-newmtl TexMat9
-map_Kd textures/lines_0.png
-newmtl TexMat10
-map_Kd textures/brick_0.png
-newmtl TexMat11
-map_Kd textures/link_0.png
-newmtl TexMat12
-map_Kd textures/liquid_0.png
-newmtl ColorMaterial41
-map_Kd textures/wall_0.png
+newmtl ColorMaterial16
 Kd 0.8117647058823529 0.8117647058823529 0.8117647058823529
-newmtl ColorMaterial44
-map_Kd textures/wall_0.png
+newmtl ColorMaterial17
 Kd 0.7058823529411765 0.7058823529411765 0.7058823529411765
-newmtl ColorMaterial45
-map_Kd textures/wall_0.png
+newmtl ColorMaterial18
 Kd 0.6941176470588235 0.6941176470588235 0.6941176470588235
-newmtl ColorMaterial56
-map_Kd textures/wall_0.png
+newmtl ColorMaterial19
 Kd 0.7333333333333333 0.7254901960784313 0.7254901960784313
-newmtl ColorMaterial79
-map_Kd textures/wall_0.png
+newmtl ColorMaterial20
 Kd 0.6941176470588235 0.6941176470588235 0.6941176470588235
-newmtl ColorMaterial91
-map_Kd textures/wall_0.png
+newmtl ColorMaterial21
 Kd 0.6666666666666666 0.6666666666666666 0.6666666666666666
-newmtl ColorMaterial101
-map_Kd textures/wall_0.png
+newmtl ColorMaterial22
 Kd 0.6352941176470588 0.6352941176470588 0.6352941176470588
-newmtl ColorMaterial107
-map_Kd textures/wall_0.png
+newmtl ColorMaterial23
 Kd 0.6745098039215687 0.6745098039215687 0.6745098039215687
-newmtl ColorMaterial156
-map_Kd textures/wall_0.png
+newmtl ColorMaterial24
 Kd 0.6666666666666666 0.6666666666666666 0.6666666666666666
-newmtl ColorMaterial157
-map_Kd textures/wall_0.png
+newmtl ColorMaterial25
 Kd 0.6941176470588235 0.6862745098039216 0.6862745098039216
-newmtl ColorMaterial158
-map_Kd textures/wall_0.png
+newmtl ColorMaterial26
 Kd 0.7058823529411765 0.7058823529411765 0.7058823529411765
-newmtl ColorMaterial159
-map_Kd textures/wall_0.png
+newmtl ColorMaterial27
 Kd 0.6470588235294118 0.6470588235294118 0.6470588235294118
-newmtl ColorMaterial160
-map_Kd textures/wall_0.png
+newmtl ColorMaterial28
 Kd 0.6666666666666666 0.6666666666666666 0.6666666666666666
-newmtl ColorMaterial181
-map_Kd textures/wall_0.png
+newmtl ColorMaterial29
 Kd 0.792156862745098 0.792156862745098 0.792156862745098
-newmtl ColorMaterial192
-map_Kd textures/wall_0.png
+newmtl ColorMaterial30
 Kd 0.8627450980392157 0.8627450980392157 0.8627450980392157
-newmtl ColorMaterial193
-map_Kd textures/wall_0.png
+newmtl ColorMaterial31
 Kd 0.8901960784313725 0.8901960784313725 0.8901960784313725
-newmtl ColorMaterial262
-map_Kd textures/wall_0.png
+newmtl ColorMaterial32
 Kd 0.9019607843137255 0.9019607843137255 0.9019607843137255
-newmtl ColorMaterial270
-map_Kd textures/wall_0.png
+newmtl ColorMaterial33
 Kd 0.6941176470588235 0.6941176470588235 0.6941176470588235
-newmtl ColorMaterial298
-map_Kd textures/wall_0.png
+newmtl ColorMaterial34
 Kd 0.6666666666666666 0.6666666666666666 0.6666666666666666
-newmtl ColorMaterial299
-map_Kd textures/wall_0.png
+newmtl ColorMaterial35
 Kd 0.6941176470588235 0.6941176470588235 0.6941176470588235
-newmtl ColorMaterial300
-map_Kd textures/wall_0.png
+newmtl ColorMaterial36
 Kd 0.7333333333333333 0.7333333333333333 0.7333333333333333
-newmtl ColorMaterial301
-map_Kd textures/wall_0.png
+newmtl ColorMaterial37
 Kd 0.7254901960784313 0.7254901960784313 0.7254901960784313
-newmtl ColorMaterial302
-map_Kd textures/wall_0.png
+newmtl ColorMaterial38
 Kd 0.6549019607843137 0.6549019607843137 0.6549019607843137
-newmtl ColorMaterial303
-map_Kd textures/wall_0.png
+newmtl ColorMaterial39
 Kd 0.7137254901960784 0.7137254901960784 0.7137254901960784
-newmtl ColorMaterial304
-map_Kd textures/wall_0.png
+newmtl ColorMaterial40
 Kd 0.6862745098039216 0.6862745098039216 0.6862745098039216
-newmtl ColorMaterial333
-map_Kd textures/wall_0.png
+newmtl ColorMaterial41
 Kd 0.7843137254901961 0.7843137254901961 0.7843137254901961
-newmtl ColorMaterial334
-map_Kd textures/wall_0.png
+newmtl ColorMaterial42
 Kd 0.7058823529411765 0.7058823529411765 0.7058823529411765
-newmtl ColorMaterial335
-map_Kd textures/wall_0.png
+newmtl ColorMaterial43
 Kd 0.8235294117647058 0.8235294117647058 0.8235294117647058
-newmtl ColorMaterial336
-map_Kd textures/wall_0.png
+newmtl ColorMaterial44
 Kd 0.7843137254901961 0.7843137254901961 0.7843137254901961
-newmtl ColorMaterial349
-map_Kd textures/wall_0.png
+newmtl ColorMaterial45
 Kd 0.7843137254901961 0.7764705882352941 0.7764705882352941
-newmtl ColorMaterial350
-map_Kd textures/wall_0.png
+newmtl ColorMaterial46
 Kd 0.7137254901960784 0.7137254901960784 0.7137254901960784
-newmtl ColorMaterial355
-map_Kd textures/wall_0.png
+newmtl ColorMaterial47
 Kd 0.7254901960784313 0.7176470588235294 0.7176470588235294
-newmtl ColorMaterial356
-map_Kd textures/wall_0.png
+newmtl ColorMaterial48
 Kd 0.7647058823529411 0.7647058823529411 0.7647058823529411
-newmtl ColorMaterial397
-map_Kd textures/wall_0.png
+newmtl ColorMaterial49
 Kd 0 0 0
-newmtl ColorMaterial398
-map_Kd textures/wall_0.png
+newmtl ColorMaterial50
 Kd 0 0 0
-newmtl ColorMaterial399
-map_Kd textures/wall_0.png
+newmtl ColorMaterial51
 Kd 0 0 0
-newmtl ColorMaterial400
-map_Kd textures/wall_0.png
+newmtl ColorMaterial52
 Kd 0 0 0
-newmtl ColorMaterial401
-map_Kd textures/wall_0.png
+newmtl ColorMaterial53
 Kd 0 0 0
-newmtl ColorMaterial402
-map_Kd textures/wall_0.png
+newmtl ColorMaterial54
 Kd 0 0 0
-newmtl ColorMaterial403
-map_Kd textures/wall_0.png
+newmtl ColorMaterial55
 Kd 0 0 0
-newmtl ColorMaterial404
-map_Kd textures/wall_0.png
+newmtl ColorMaterial56
 Kd 0 0 0
-newmtl ColorMaterial405
-map_Kd textures/wall_0.png
+newmtl ColorMaterial57
 Kd 0 0 0
-newmtl ColorMaterial406
-map_Kd textures/wall_0.png
+newmtl ColorMaterial58
 Kd 0 0 0
-newmtl ColorMaterial420
-map_Kd textures/wall_0.png
+newmtl ColorMaterial59
 Kd 0.6745098039215687 0.6745098039215687 0.6745098039215687
-newmtl ColorMaterial447
-map_Kd textures/wall_0.png
+newmtl ColorMaterial60
 Kd 0.7647058823529411 0.7647058823529411 0.7647058823529411
-newmtl ColorMaterial463
-map_Kd textures/wall_0.png
+newmtl ColorMaterial61
 Kd 0 0 0
-newmtl ColorMaterial464
-map_Kd textures/wall_0.png
+newmtl ColorMaterial62
 Kd 0 0 0
-newmtl ColorMaterial465
-map_Kd textures/wall_0.png
+newmtl ColorMaterial63
 Kd 0 0 0
-newmtl ColorMaterial473
-map_Kd textures/wall_0.png
+newmtl ColorMaterial64
 Kd 0.6941176470588235 0.6941176470588235 0.6941176470588235
-newmtl ColorMaterial474
-map_Kd textures/wall_0.png
+newmtl ColorMaterial65
 Kd 0.7254901960784313 0.7254901960784313 0.7254901960784313
-newmtl ColorMaterial475
-map_Kd textures/wall_0.png
+newmtl ColorMaterial66
 Kd 0.7254901960784313 0.7254901960784313 0.7254901960784313
-newmtl ColorMaterial476
-map_Kd textures/dirt_0.png
+newmtl ColorMaterial67
 Kd 0.6549019607843137 0.6549019607843137 0.6549019607843137
-newmtl ColorMaterial483
-map_Kd textures/wall_0.png
+newmtl ColorMaterial68
 Kd 0.7843137254901961 0.7843137254901961 0.7843137254901961
-newmtl ColorMaterial484
-map_Kd textures/roof_0.png
+newmtl ColorMaterial69
 Kd 0.11372549019607843 0.23921568627450981 0.35294117647058826
 d 0.8
-newmtl ColorMaterial489
-map_Kd textures/floor_0.png
+newmtl ColorMaterial70
 Kd 0.792156862745098 0.792156862745098 0.792156862745098
-newmtl ColorMaterial492
-map_Kd textures/floor_0.png
+newmtl ColorMaterial71
 Kd 0.7529411764705882 0.7529411764705882 0.7529411764705882
-newmtl ColorMaterial493
-map_Kd textures/floor_0.png
+newmtl ColorMaterial72
 Kd 0.7333333333333333 0.7333333333333333 0.7333333333333333
-newmtl ColorMaterial494
-map_Kd textures/floor_0.png
+newmtl ColorMaterial73
 Kd 0.6941176470588235 0.6941176470588235 0.6941176470588235
-newmtl ColorMaterial496
-map_Kd textures/roof_0.png
+newmtl ColorMaterial74
 Kd 0.20392156862745098 0.20392156862745098 0.20392156862745098
-newmtl ColorMaterial497
-map_Kd textures/roof_0.png
+newmtl ColorMaterial75
 Kd 0.20392156862745098 0.20392156862745098 0.20392156862745098
-newmtl ColorMaterial498
-map_Kd textures/roof_0.png
+newmtl ColorMaterial76
 Kd 0.20392156862745098 0.20392156862745098 0.20392156862745098
-newmtl ColorMaterial499
-map_Kd textures/roof_0.png
+newmtl ColorMaterial77
 Kd 0.20392156862745098 0.20392156862745098 0.20392156862745098
-newmtl ColorMaterial500
-map_Kd textures/roof_0.png
+newmtl ColorMaterial78
 Kd 0.20392156862745098 0.20392156862745098 0.20392156862745098
-newmtl ColorMaterial501
-map_Kd textures/roof_0.png
+newmtl ColorMaterial79
 Kd 0.20392156862745098 0.20392156862745098 0.20392156862745098
-newmtl ColorMaterial502
-map_Kd textures/roof_0.png
+newmtl ColorMaterial80
 Kd 0.20392156862745098 0.20392156862745098 0.20392156862745098
-newmtl ColorMaterial503
-map_Kd textures/roof_0.png
+newmtl ColorMaterial81
 Kd 0.20392156862745098 0.20392156862745098 0.20392156862745098
-newmtl ColorMaterial510
-map_Kd textures/wall_0.png
+newmtl ColorMaterial82
 Kd 0 0 0
-newmtl ColorMaterial522
-map_Kd textures/roof_0.png
+newmtl ColorMaterial83
 Kd 0.1843137254901961 0.1843137254901961 0.1843137254901961
-newmtl ColorMaterial523
-map_Kd textures/roof_0.png
+newmtl ColorMaterial84
 Kd 0.1843137254901961 0.1843137254901961 0.1843137254901961
-newmtl ColorMaterial554
-map_Kd textures/wall_0.png
+newmtl ColorMaterial85
 Kd 0 0 0
-newmtl ColorMaterial556
-map_Kd textures/wall_0.png
+newmtl ColorMaterial86
 Kd 0.7333333333333333 0.7333333333333333 0.7333333333333333
-newmtl ColorMaterial557
-map_Kd textures/wall_0.png
+newmtl ColorMaterial87
 Kd 0.8235294117647058 0.796078431372549 0.796078431372549
-newmtl ColorMaterial558
-map_Kd textures/wall_0.png
+newmtl ColorMaterial88
 Kd 0.7333333333333333 0.7333333333333333 0.7333333333333333
-newmtl ColorMaterial559
-map_Kd textures/wall_0.png
+newmtl ColorMaterial89
 Kd 0.7450980392156863 0.7372549019607844 0.7372549019607844
-newmtl ColorMaterial560
-map_Kd textures/wall_0.png
+newmtl ColorMaterial90
 Kd 0.7529411764705882 0.7372549019607844 0.7372549019607844
-newmtl ColorMaterial561
-map_Kd textures/wall_0.png
+newmtl ColorMaterial91
 Kd 0.615686274509804 0.615686274509804 0.615686274509804
-newmtl ColorMaterial562
-map_Kd textures/wall_0.png
+newmtl ColorMaterial92
 Kd 0.7725490196078432 0.7725490196078432 0.7725490196078432
-newmtl ColorMaterial563
-map_Kd textures/wall_0.png
+newmtl ColorMaterial93
 Kd 0.7333333333333333 0.7333333333333333 0.7333333333333333
-newmtl ColorMaterial564
-map_Kd textures/wall_0.png
+newmtl ColorMaterial94
 Kd 0.6941176470588235 0.6941176470588235 0.6941176470588235
-newmtl ColorMaterial582
-map_Kd textures/roof_0.png
+newmtl ColorMaterial95
 Kd 0.4117647058823529 0.3568627450980392 0.2823529411764706
-newmtl ColorMaterial585
-map_Kd textures/roof_0.png
+newmtl ColorMaterial96
 Kd 0.4392156862745098 0.3568627450980392 0.30196078431372547
-newmtl ColorMaterial587
-map_Kd textures/roof_0.png
+newmtl ColorMaterial97
 Kd 0.4117647058823529 0.3411764705882353 0.2627450980392157
-newmtl ColorMaterial610
-map_Kd textures/wall_0.png
+newmtl ColorMaterial98
 Kd 0.6549019607843137 0.6549019607843137 0.6549019607843137
-newmtl ColorMaterial616
-map_Kd textures/floor_0.png
+newmtl ColorMaterial99
 Kd 0.6941176470588235 0.6941176470588235 0.6941176470588235
-newmtl ColorMaterial617
-map_Kd textures/floor_0.png
+newmtl ColorMaterial100
 Kd 0.6941176470588235 0.6941176470588235 0.6941176470588235
-newmtl ColorMaterial631
-map_Kd textures/wall_0.png
+newmtl ColorMaterial101
 Kd 0.6549019607843137 0.6549019607843137 0.6549019607843137
-newmtl ColorMaterial632
-map_Kd textures/wall_0.png
+newmtl ColorMaterial102
 Kd 0.5372549019607843 0.5372549019607843 0.5372549019607843
-newmtl ColorMaterial633
-map_Kd textures/wall_0.png
+newmtl ColorMaterial103
 Kd 0.6862745098039216 0.6862745098039216 0.6862745098039216
-newmtl ColorMaterial634
-map_Kd textures/wall_0.png
+newmtl ColorMaterial104
 Kd 0.7137254901960784 0.6980392156862745 0.6980392156862745
-newmtl ColorMaterial635
-map_Kd textures/wall_0.png
+newmtl ColorMaterial105
 Kd 0.6549019607843137 0.6549019607843137 0.6549019607843137
-newmtl ColorMaterial636
-map_Kd textures/wall_0.png
+newmtl ColorMaterial106
 Kd 0.7137254901960784 0.7137254901960784 0.7137254901960784
-newmtl ColorMaterial637
-map_Kd textures/wall_0.png
+newmtl ColorMaterial107
 Kd 0.6078431372549019 0.6078431372549019 0.6078431372549019
-newmtl ColorMaterial638
-map_Kd textures/wall_0.png
+newmtl ColorMaterial108
 Kd 0.6862745098039216 0.6862745098039216 0.6862745098039216
-newmtl ColorMaterial639
-map_Kd textures/wall_0.png
+newmtl ColorMaterial109
 Kd 0 0 0
-newmtl ColorMaterial640
-map_Kd textures/wall_0.png
+newmtl ColorMaterial110
 Kd 0 0 0
-newmtl ColorMaterial642
-map_Kd textures/floor_0.png
+newmtl ColorMaterial111
 Kd 0.9019607843137255 0.9019607843137255 0.9019607843137255
-newmtl ColorMaterial643
-map_Kd textures/floor_0.png
+newmtl ColorMaterial112
 Kd 0.6941176470588235 0.6941176470588235 0.6941176470588235
-newmtl ColorMaterial646
-map_Kd textures/wall_0.png
+newmtl ColorMaterial113
 Kd 0.8901960784313725 0.8901960784313725 0.8901960784313725
-newmtl ColorMaterial682
-map_Kd textures/wall_0.png
+newmtl ColorMaterial114
 Kd 0 0 0
-newmtl ColorMaterial683
-map_Kd textures/wall_0.png
+newmtl ColorMaterial115
 Kd 0 0 0
-newmtl ColorMaterial684
-map_Kd textures/wall_0.png
+newmtl ColorMaterial116
 Kd 0.8901960784313725 0.8901960784313725 0.8901960784313725
-newmtl ColorMaterial685
-map_Kd textures/wall_0.png
+newmtl ColorMaterial117
 Kd 0.8901960784313725 0.8901960784313725 0.8901960784313725
-newmtl ColorMaterial686
-map_Kd textures/wall_0.png
+newmtl ColorMaterial118
 Kd 0.8901960784313725 0.8901960784313725 0.8901960784313725
-newmtl ColorMaterial687
-map_Kd textures/wall_0.png
+newmtl ColorMaterial119
 Kd 0.6941176470588235 0.6941176470588235 0.6941176470588235
-newmtl ColorMaterial802
-map_Kd textures/floor_0.png
+newmtl ColorMaterial120
+Kd 0.8352941176470589 0.8901960784313725 0.44313725490196076
+newmtl ColorMaterial121
+Kd 0.8352941176470589 0.8901960784313725 0.44313725490196076
+newmtl ColorMaterial122
+Kd 0.8352941176470589 0.8901960784313725 0.44313725490196076
+newmtl ColorMaterial123
+Kd 0.8352941176470589 0.8901960784313725 0.44313725490196076
+newmtl ColorMaterial124
+Kd 0.8352941176470589 0.8901960784313725 0.44313725490196076
+newmtl ColorMaterial125
+Kd 0.788235294117647 0.8313725490196079 0.48627450980392156
+newmtl ColorMaterial126
+Kd 0.788235294117647 0.8313725490196079 0.48627450980392156
+newmtl ColorMaterial127
+Kd 0.788235294117647 0.8313725490196079 0.48627450980392156
+newmtl ColorMaterial128
+Kd 0.788235294117647 0.8313725490196079 0.48627450980392156
+newmtl ColorMaterial129
+Kd 0.788235294117647 0.8313725490196079 0.48627450980392156
+newmtl ColorMaterial130
+Kd 0.788235294117647 0.8313725490196079 0.48627450980392156
+newmtl ColorMaterial131
+Kd 0.788235294117647 0.8313725490196079 0.48627450980392156
+newmtl ColorMaterial132
+Kd 0.788235294117647 0.8313725490196079 0.48627450980392156
+newmtl ColorMaterial133
+Kd 0.788235294117647 0.8313725490196079 0.48627450980392156
+newmtl ColorMaterial134
+Kd 0.788235294117647 0.8313725490196079 0.48627450980392156
+newmtl ColorMaterial135
+Kd 0.788235294117647 0.8313725490196079 0.48627450980392156
+newmtl ColorMaterial136
+Kd 0.788235294117647 0.8313725490196079 0.48627450980392156
+newmtl ColorMaterial137
+Kd 0.788235294117647 0.8313725490196079 0.48627450980392156
+newmtl ColorMaterial138
+Kd 0.788235294117647 0.8313725490196079 0.48627450980392156
+newmtl ColorMaterial139
+Kd 0.788235294117647 0.8313725490196079 0.48627450980392156
+newmtl ColorMaterial140
+Kd 0.788235294117647 0.8313725490196079 0.48627450980392156
+newmtl ColorMaterial141
+Kd 0.8352941176470589 0.8901960784313725 0.44313725490196076
+newmtl ColorMaterial142
 Kd 0.6941176470588235 0.6941176470588235 0.6941176470588235
-newmtl ColorMaterial805
-map_Kd textures/roof_0.png
+newmtl ColorMaterial143
 Kd 0.4588235294117647 0.15294117647058825 0.09019607843137255
-newmtl ColorMaterial815
-map_Kd textures/roof_0.png
+newmtl ColorMaterial144
 Kd 0.5686274509803921 0.23529411764705882 0.19215686274509805
-newmtl ColorMaterial821
-map_Kd textures/roof_0.png
+newmtl ColorMaterial145
+Kd 0.788235294117647 0.8313725490196079 0.48627450980392156
+newmtl ColorMaterial146
 Kd 0.10588235294117647 0.10588235294117647 0.10588235294117647
-newmtl ColorMaterial822
-map_Kd textures/roof_0.png
+newmtl ColorMaterial147
 Kd 0.10588235294117647 0.10588235294117647 0.10588235294117647
-newmtl ColorMaterial828
-map_Kd textures/dirt_0.png
+newmtl ColorMaterial148
 Kd 1 1 1
-newmtl ColorMaterial843
-map_Kd textures/roof_0.png
+newmtl ColorMaterial149
 Kd 0.3215686274509804 0.3215686274509804 0.3215686274509804
-newmtl ColorMaterial845
-map_Kd textures/roof_0.png
+newmtl ColorMaterial150
 Kd 0.24313725490196078 0.24313725490196078 0.24313725490196078
-newmtl ColorMaterial846
-map_Kd textures/roof_0.png
+newmtl ColorMaterial151
 Kd 0.3215686274509804 0.3215686274509804 0.3215686274509804
-newmtl ColorMaterial849
-map_Kd textures/roof_0.png
+newmtl ColorMaterial152
 Kd 0.17254901960784313 0.24705882352941178 0.3333333333333333
-newmtl ColorMaterial850
-map_Kd textures/roof_0.png
+newmtl ColorMaterial153
 Kd 0.17254901960784313 0.24705882352941178 0.3333333333333333
-newmtl ColorMaterial851
-map_Kd textures/roof_0.png
+newmtl ColorMaterial154
 Kd 0.17254901960784313 0.24705882352941178 0.3333333333333333
-newmtl ColorMaterial852
-map_Kd textures/roof_0.png
+newmtl ColorMaterial155
 Kd 0.5098039215686274 0.49019607843137253 0.49019607843137253
-newmtl ColorMaterial853
-map_Kd textures/roof_0.png
+newmtl ColorMaterial156
 Kd 0.08627450980392157 0.08627450980392157 0.08627450980392157
-newmtl ColorMaterial854
-map_Kd textures/roof_0.png
+newmtl ColorMaterial157
 Kd 0.08627450980392157 0.08627450980392157 0.08627450980392157
-newmtl ColorMaterial855
-map_Kd textures/roof_0.png
+newmtl ColorMaterial158
 Kd 0.08627450980392157 0.08627450980392157 0.08627450980392157
-newmtl ColorMaterial856
-map_Kd textures/roof_0.png
+newmtl ColorMaterial159
 Kd 0.08627450980392157 0.08627450980392157 0.08627450980392157
-newmtl ColorMaterial857
-map_Kd textures/roof_0.png
+newmtl ColorMaterial160
 Kd 0.5098039215686274 0.49019607843137253 0.49019607843137253
-newmtl ColorMaterial858
-map_Kd textures/roof_0.png
+newmtl ColorMaterial161
 Kd 0.5098039215686274 0.49019607843137253 0.49019607843137253
-newmtl ColorMaterial859
-map_Kd textures/roof_0.png
+newmtl ColorMaterial162
 Kd 0.4196078431372549 0.4196078431372549 0.4196078431372549
-newmtl ColorMaterial860
-map_Kd textures/roof_0.png
+newmtl ColorMaterial163
 Kd 0.4196078431372549 0.4196078431372549 0.4196078431372549
-newmtl ColorMaterial861
-map_Kd textures/roof_0.png
+newmtl ColorMaterial164
 Kd 0.5098039215686274 0.49019607843137253 0.49019607843137253
-newmtl EmissiveMaterial862
+newmtl EmissiveMaterial165
 Kd 1 0 0
 Ke 1 0 0
 d 0.8
-newmtl EmissiveMaterial863
+newmtl EmissiveMaterial166
 Kd 1 0 0
 Ke 1 0 0
 d 0.8
-newmtl ColorMaterial864
-map_Kd textures/roof_0.png
+newmtl ColorMaterial167
 Kd 0.24313725490196078 0.24313725490196078 0.24313725490196078
-newmtl ColorMaterial865
-map_Kd textures/roof_0.png
+newmtl ColorMaterial168
 Kd 0 0 0
-newmtl ColorMaterial866
-map_Kd textures/roof_0.png
+newmtl ColorMaterial169
 Kd 0 0 0
 d 0.4
-newmtl ColorMaterial867
-map_Kd textures/roof_0.png
+newmtl ColorMaterial170
 Kd 0 0 0
 d 0.4
-newmtl ColorMaterial868
-map_Kd textures/roof_0.png
+newmtl ColorMaterial171
 Kd 0 0 0
 d 0.4
-newmtl ColorMaterial869
-map_Kd textures/dirt_0.png
+newmtl ColorMaterial172
 Kd 0.7137254901960784 0.7137254901960784 0.7137254901960784
-newmtl ColorMaterial870
-map_Kd textures/roof_0.png
+newmtl ColorMaterial173
 Kd 0 0 0
 d 0.4
-newmtl ColorMaterial871
-map_Kd textures/roof_0.png
+newmtl ColorMaterial174
 Kd 0 0 0
 d 0.4
-newmtl ColorMaterial879
-map_Kd textures/wall_0.png
+newmtl ColorMaterial175
 Kd 0.7725490196078432 0.7725490196078432 0.7725490196078432
-newmtl ColorMaterial887
-map_Kd textures/roof_0.png
+newmtl ColorMaterial176
+Kd 0.8352941176470589 0.8901960784313725 0.44313725490196076
+newmtl ColorMaterial177
 Kd 0 0 0
 d 0.7000000000000001
-newmtl ColorMaterial892
-map_Kd textures/floor_0.png
+newmtl ColorMaterial178
 Kd 0.8431372549019608 0.8431372549019608 0.8431372549019608
-newmtl ColorMaterial893
-map_Kd textures/floor_0.png
+newmtl ColorMaterial179
 Kd 0.8431372549019608 0.8431372549019608 0.8431372549019608
-newmtl ColorMaterial905
-map_Kd textures/roof_0.png
+newmtl ColorMaterial180
 Kd 0.17254901960784313 0.24705882352941178 0.3333333333333333
-newmtl ColorMaterial910
-map_Kd textures/floor_0.png
+newmtl ColorMaterial181
 Kd 0.8509803921568627 0.8509803921568627 0.8509803921568627
-newmtl ColorMaterial912
-map_Kd textures/floor_0.png
+newmtl ColorMaterial182
 Kd 0.7843137254901961 0.7843137254901961 0.7843137254901961
-newmtl ColorMaterial916
-map_Kd textures/floor_0.png
+newmtl ColorMaterial183
 Kd 0.7333333333333333 0.7333333333333333 0.7333333333333333
-newmtl ColorMaterial918
-map_Kd textures/wall_0.png
+newmtl ColorMaterial184
 Kd 0 0 0
-newmtl ColorMaterial925
-map_Kd textures/wall_0.png
+newmtl ColorMaterial185
 Kd 0 0 0
-newmtl ColorMaterial926
-map_Kd textures/wall_0.png
+newmtl ColorMaterial186
 Kd 0 0 0
-newmtl ColorMaterial927
-map_Kd textures/wall_0.png
+newmtl ColorMaterial187
 Kd 0 0 0
-newmtl ColorMaterial942
-map_Kd textures/floor_0.png
+newmtl ColorMaterial188
 Kd 0.8313725490196079 0.8313725490196079 0.8313725490196079
-newmtl ColorMaterial943
-map_Kd textures/floor_0.png
+newmtl ColorMaterial189
 Kd 0.8509803921568627 0.8509803921568627 0.8509803921568627
-newmtl ColorMaterial944
-map_Kd textures/floor_0.png
+newmtl ColorMaterial190
 Kd 0.9019607843137255 0.9019607843137255 0.9019607843137255
-newmtl ColorMaterial945
-map_Kd textures/floor_0.png
+newmtl ColorMaterial191
 Kd 0.8823529411764706 0.8823529411764706 0.8823529411764706
-newmtl ColorMaterial961
-map_Kd textures/wall_0.png
+newmtl ColorMaterial192
 Kd 0.7450980392156863 0.7294117647058823 0.7294117647058823
-newmtl ColorMaterial962
-map_Kd textures/wall_0.png
+newmtl ColorMaterial193
 Kd 0.8431372549019608 0.8431372549019608 0.8431372549019608
-newmtl ColorMaterial970
-map_Kd textures/wall_0.png
+newmtl ColorMaterial194
 Kd 0.7254901960784313 0.7254901960784313 0.7254901960784313
-newmtl ColorMaterial996
-map_Kd textures/wall_0.png
+newmtl ColorMaterial195
 Kd 0.6862745098039216 0.6862745098039216 0.6862745098039216
-newmtl ColorMaterial997
-map_Kd textures/wall_0.png
+newmtl ColorMaterial196
 Kd 0.5882352941176471 0.5882352941176471 0.5882352941176471
-newmtl ColorMaterial1010
-map_Kd textures/wall_0.png
+newmtl ColorMaterial197
 Kd 0 0 0
-newmtl ColorMaterial1014
-map_Kd textures/floor_0.png
+newmtl ColorMaterial198
 Kd 0.7450980392156863 0.7450980392156863 0.7450980392156863
-newmtl ColorMaterial1015
-map_Kd textures/floor_0.png
+newmtl ColorMaterial199
 Kd 0.8823529411764706 0.8705882352941177 0.8705882352941177
-newmtl ColorMaterial1016
-map_Kd textures/floor_0.png
+newmtl ColorMaterial200
 Kd 0.8509803921568627 0.8352941176470589 0.8352941176470589
-newmtl ColorMaterial1017
-map_Kd textures/floor_0.png
+newmtl ColorMaterial201
 Kd 0.8627450980392157 0.8627450980392157 0.8627450980392157
-newmtl ColorMaterial1018
-map_Kd textures/floor_0.png
+newmtl ColorMaterial202
 Kd 0.7647058823529411 0.7647058823529411 0.7647058823529411
-newmtl ColorMaterial1019
-map_Kd textures/floor_0.png
+newmtl ColorMaterial203
 Kd 0.7843137254901961 0.7843137254901961 0.7843137254901961
-newmtl ColorMaterial1020
-map_Kd textures/floor_0.png
+newmtl ColorMaterial204
 Kd 0.8117647058823529 0.8117647058823529 0.8117647058823529
-newmtl ColorMaterial1053
-map_Kd textures/roof_0.png
+newmtl ColorMaterial205
 Kd 0.24313725490196078 0.24313725490196078 0.24313725490196078
-newmtl ColorMaterial1063
-map_Kd textures/floor_0.png
+newmtl ColorMaterial206
 Kd 0.6941176470588235 0.6941176470588235 0.6941176470588235
-newmtl ColorMaterial1065
-map_Kd textures/wall_0.png
+newmtl ColorMaterial207
 Kd 0.6549019607843137 0.6470588235294118 0.6470588235294118
-newmtl ColorMaterial1066
-map_Kd textures/wall_0.png
+newmtl ColorMaterial208
 Kd 0.6941176470588235 0.6941176470588235 0.6941176470588235
-newmtl ColorMaterial1067
-map_Kd textures/wall_0.png
+newmtl ColorMaterial209
 Kd 0.6941176470588235 0.6941176470588235 0.6941176470588235
-newmtl ColorMaterial1068
-map_Kd textures/wall_0.png
+newmtl ColorMaterial210
 Kd 0.6666666666666666 0.6666666666666666 0.6666666666666666
-newmtl ColorMaterial1069
-map_Kd textures/wall_0.png
+newmtl ColorMaterial211
 Kd 0.6470588235294118 0.6392156862745098 0.6392156862745098
-newmtl ColorMaterial1070
-map_Kd textures/wall_0.png
+newmtl ColorMaterial212
 Kd 0.6941176470588235 0.6941176470588235 0.6941176470588235
-newmtl ColorMaterial1072
-map_Kd textures/floor_0.png
+newmtl ColorMaterial213
 Kd 1 1 1
-newmtl ColorMaterial1073
-map_Kd textures/floor_0.png
+newmtl ColorMaterial214
 Kd 1 1 1
-newmtl ColorMaterial1074
-map_Kd textures/floor_0.png
+newmtl ColorMaterial215
 Kd 1 1 1
-newmtl ColorMaterial1075
-map_Kd textures/floor_0.png
+newmtl ColorMaterial216
 Kd 1 1 1
-newmtl ColorMaterial1076
-map_Kd textures/floor_0.png
+newmtl ColorMaterial217
 Kd 1 1 1
-newmtl ColorMaterial1077
-map_Kd textures/floor_0.png
+newmtl ColorMaterial218
 Kd 1 1 1
-newmtl ColorMaterial1078
-map_Kd textures/floor_0.png
+newmtl ColorMaterial219
 Kd 1 1 1
-newmtl ColorMaterial1079
-map_Kd textures/floor_0.png
+newmtl ColorMaterial220
 Kd 1 1 1
-newmtl ColorMaterial1080
-map_Kd textures/floor_0.png
+newmtl ColorMaterial221
 Kd 1 1 1
-newmtl ColorMaterial1081
-map_Kd textures/floor_0.png
+newmtl ColorMaterial222
 Kd 1 1 1
-newmtl ColorMaterial1082
-map_Kd textures/floor_0.png
+newmtl ColorMaterial223
 Kd 1 1 1
-newmtl ColorMaterial1083
-map_Kd textures/floor_0.png
+newmtl ColorMaterial224
 Kd 1 1 1
-newmtl ColorMaterial1084
-map_Kd textures/floor_0.png
+newmtl ColorMaterial225
 Kd 1 1 1
-newmtl ColorMaterial1085
-map_Kd textures/floor_0.png
+newmtl ColorMaterial226
 Kd 1 1 1
-newmtl ColorMaterial1086
-map_Kd textures/floor_0.png
+newmtl ColorMaterial227
 Kd 1 1 1
-newmtl ColorMaterial1087
-map_Kd textures/floor_0.png
+newmtl ColorMaterial228
 Kd 1 1 1
-newmtl ColorMaterial1088
-map_Kd textures/floor_0.png
+newmtl ColorMaterial229
 Kd 1 1 1
-newmtl ColorMaterial1089
-map_Kd textures/floor_0.png
+newmtl ColorMaterial230
 Kd 1 1 1
-newmtl ColorMaterial1090
-map_Kd textures/floor_0.png
+newmtl ColorMaterial231
 Kd 1 1 1
-newmtl ColorMaterial1091
-map_Kd textures/floor_0.png
+newmtl ColorMaterial232
 Kd 1 1 1
-newmtl ColorMaterial1092
-map_Kd textures/floor_0.png
+newmtl ColorMaterial233
 Kd 1 1 1
-newmtl ColorMaterial1093
-map_Kd textures/floor_0.png
+newmtl ColorMaterial234
 Kd 1 1 1
-newmtl ColorMaterial1094
-map_Kd textures/floor_0.png
+newmtl ColorMaterial235
 Kd 1 1 1
-newmtl ColorMaterial1095
-map_Kd textures/floor_0.png
+newmtl ColorMaterial236
 Kd 1 1 1
-newmtl ColorMaterial1096
-map_Kd textures/floor_0.png
+newmtl ColorMaterial237
 Kd 1 1 1
-newmtl ColorMaterial1097
-map_Kd textures/floor_0.png
+newmtl ColorMaterial238
 Kd 1 1 1
-newmtl ColorMaterial1098
-map_Kd textures/floor_0.png
+newmtl ColorMaterial239
 Kd 1 1 1
-newmtl ColorMaterial1099
-map_Kd textures/wall_0.png
+newmtl ColorMaterial240
 Kd 0.4588235294117647 0.4588235294117647 0.4588235294117647
-newmtl ColorMaterial1100
-map_Kd textures/floor_0.png
+newmtl ColorMaterial241
 Kd 1 1 1
-newmtl ColorMaterial1101
-map_Kd textures/floor_0.png
+newmtl ColorMaterial242
 Kd 1 1 1
-newmtl ColorMaterial1102
-map_Kd textures/floor_0.png
+newmtl ColorMaterial243
 Kd 1 1 1
-newmtl ColorMaterial1103
-map_Kd textures/roof_0.png
+newmtl ColorMaterial244
 Kd 0.20392156862745098 0.20392156862745098 0.20392156862745098
-newmtl ColorMaterial1104
-map_Kd textures/floor_0.png
+newmtl ColorMaterial245
 Kd 1 1 1
-newmtl ColorMaterial1105
-map_Kd textures/floor_0.png
+newmtl ColorMaterial246
 Kd 1 1 1
-newmtl ColorMaterial1106
-map_Kd textures/wall_0.png
+newmtl ColorMaterial247
 Kd 0.4588235294117647 0.4588235294117647 0.4588235294117647
-newmtl ColorMaterial1107
-map_Kd textures/wall_0.png
+newmtl ColorMaterial248
 Kd 0 0 0
-newmtl ColorMaterial1108
-map_Kd textures/wall_0.png
+newmtl ColorMaterial249
 Kd 0.6666666666666666 0.6392156862745098 0.6392156862745098
-newmtl ColorMaterial1110
-map_Kd textures/floor_0.png
+newmtl ColorMaterial250
 Kd 0.6941176470588235 0.6941176470588235 0.6941176470588235
-newmtl ColorMaterial1111
-map_Kd textures/floor_0.png
+newmtl ColorMaterial251
 Kd 1 1 1
-newmtl ColorMaterial1112
-map_Kd textures/floor_0.png
+newmtl ColorMaterial252
 Kd 1 1 1
-newmtl ColorMaterial1113
-map_Kd textures/floor_0.png
+newmtl ColorMaterial253
 Kd 1 1 1
-newmtl ColorMaterial1114
-map_Kd textures/floor_0.png
+newmtl ColorMaterial254
 Kd 1 1 1
-newmtl ColorMaterial1115
-map_Kd textures/floor_0.png
+newmtl ColorMaterial255
 Kd 1 1 1
-newmtl ColorMaterial1116
-map_Kd textures/floor_0.png
+newmtl ColorMaterial256
 Kd 1 1 1
-newmtl ColorMaterial1117
-map_Kd textures/floor_0.png
+newmtl ColorMaterial257
 Kd 1 1 1
-newmtl ColorMaterial1118
-map_Kd textures/floor_0.png
+newmtl ColorMaterial258
 Kd 1 1 1
-newmtl ColorMaterial1119
-map_Kd textures/floor_0.png
+newmtl ColorMaterial259
 Kd 1 1 1
-newmtl ColorMaterial1120
-map_Kd textures/floor_0.png
+newmtl ColorMaterial260
 Kd 1 1 1
-newmtl ColorMaterial1121
-map_Kd textures/floor_0.png
+newmtl ColorMaterial261
 Kd 1 1 1
-newmtl ColorMaterial1122
-map_Kd textures/floor_0.png
+newmtl ColorMaterial262
 Kd 1 1 1
-newmtl ColorMaterial1123
-map_Kd textures/floor_0.png
+newmtl ColorMaterial263
 Kd 1 1 1
-newmtl ColorMaterial1124
-map_Kd textures/wall_0.png
+newmtl ColorMaterial264
 Kd 0.4588235294117647 0.4588235294117647 0.4588235294117647
-newmtl ColorMaterial1125
-map_Kd textures/floor_0.png
+newmtl ColorMaterial265
 Kd 1 1 1
-newmtl ColorMaterial1126
-map_Kd textures/roof_0.png
+newmtl ColorMaterial266
 Kd 0.3215686274509804 0.1450980392156863 0.0196078431372549
-newmtl ColorMaterial1127
-map_Kd textures/roof_0.png
+newmtl ColorMaterial267
 Kd 0.3215686274509804 0.1450980392156863 0.0196078431372549
-newmtl ColorMaterial1128
-map_Kd textures/roof_0.png
+newmtl ColorMaterial268
 Kd 0.20392156862745098 0.20392156862745098 0.20392156862745098
-newmtl ColorMaterial1129
-map_Kd textures/floor_0.png
+newmtl ColorMaterial269
 Kd 1 1 1
-newmtl ColorMaterial1130
-map_Kd textures/floor_0.png
+newmtl ColorMaterial270
 Kd 1 1 1
-newmtl ColorMaterial1131
-map_Kd textures/wall_0.png
+newmtl ColorMaterial271
 Kd 0.4588235294117647 0.4588235294117647 0.4588235294117647
-newmtl ColorMaterial1132
-map_Kd textures/wall_0.png
+newmtl ColorMaterial272
 Kd 0.6941176470588235 0.6941176470588235 0.6941176470588235
-newmtl ColorMaterial1133
-map_Kd textures/wall_0.png
+newmtl ColorMaterial273
 Kd 0.6941176470588235 0.6941176470588235 0.6941176470588235
-newmtl ColorMaterial1134
-map_Kd textures/wall_0.png
+newmtl ColorMaterial274
 Kd 0.6941176470588235 0.6941176470588235 0.6941176470588235
-newmtl ColorMaterial1146
-map_Kd textures/wall_0.png
+newmtl ColorMaterial275
 Kd 0.7725490196078432 0.7725490196078432 0.7725490196078432
-newmtl ColorMaterial1148
-map_Kd textures/roof_0.png
+newmtl ColorMaterial276
 Kd 0.2549019607843137 0.2549019607843137 0.2549019607843137
+newmtl ColorMaterial277
+Kd 0.4117647058823529 0.3411764705882353 0.2627450980392157
