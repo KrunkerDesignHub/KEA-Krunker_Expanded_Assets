@@ -4,7 +4,7 @@ The Krunker Expanded Assets.zip is a compilation of extended assets and resource
 
 Use these assets for Content Creation, Skin Designing, Map Making, & other media uses.
 You can also use the ‘Modding Template’ directories within the KEA.zip to build mod files from scratch.
- Note: Do not use the directory layout of the KEA.zip in your mods, use the 'Modding Template' section or the 'Defualt_Mod' file for them.
+ Note: Do not use the directory layout of the KEA.zip in your mods, use the 'Modding Template' section or the 'Default_Mod' file for them.
 
 Head over to [releases](https://github.com/KrunkerDesignHub/KEA-Krunker_Expanded_Assets/releases/tag/v1.2.4.1) to download it!
 Here is the direct [.zip link](https://github.com/KrunkerDesignHub/KEA-Krunker_Expanded_Assets/archive/v1.2.4.1.zip)
