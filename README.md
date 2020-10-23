@@ -8,4 +8,4 @@ You can also use the ‘Modding Template’ directories within the KEA.zip to bu
 
 Head over to [releases](https://github.com/KrunkerDesignHub/KEA-Krunker_Expanded_Assets/releases/tag/v1.2.4.1) to download it!
 Here is the direct [.zip link](https://github.com/KrunkerDesignHub/KEA-Krunker_Expanded_Assets/archive/v1.2.4.1.zip)
-Join the [support server](https://discord.gg/cb2ykDA)
+Join the [support server](https://discord.gg/cRWcJNb)
