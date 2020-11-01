@@ -7,12 +7,21 @@ know of anything missing, or see something needs updated, let the file managers 
 
 File Managers:
 Jytesh#3241
-DukeV
+
 
 File Creator:
 Solar13#3285
 
 ------------------------------------------------------------------------------------------------
+v1.2.5
+-Added Industry 
+-Added glTF map models (hitthemoney)
+-Added Python Map Converter (hitthemoney)
+-Added Missing Weapon and Melee Previews(Xyrrm)
+-Added Police Icons(Xyrrm)
+-Added Challenge Icons
+-Updated menu icons
+
 v1.2.4
 -Added new Knife Sounds 
 -Added new SMG Sounds
