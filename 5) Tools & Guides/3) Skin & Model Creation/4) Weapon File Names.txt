@@ -12,11 +12,11 @@ weapon_10 = Akimbo Uzis
 weapon_11 = Deagle
 weapon_12 = Tec 9 (not in-game, scrapped)
 weapon_13 = Alien Blaster
-weapon_14 = Riot Shield (not in-game, soon™)
+weapon_14 = Riot Shield (not in-game, soonï¿½)
 weapon_15 = Crossbow_old (not in-game, scrapped)
-weapon_16 = Flame Thrower (not in-game, soon™)
-weapon_17 = Crossbow (not in-game, soon™)
+weapon_16 = Flame Thrower (not in-game, soonï¿½)
+weapon_17 = Crossbow (not in-game, soonï¿½)
 
 --- Alternate Weapon Skin Files --- (courtesy via floatingpoint)
 weapon_x_e - is an emission map, which tells Krunker which parts of your skin emit light.
-weapon_x_ao - is the baked-in lighting of a model, and isn't critical in skin creation.
+weapon_x_ao - is the baked-in lighting of a model, and must be applied to be all textures after completion of designing.
