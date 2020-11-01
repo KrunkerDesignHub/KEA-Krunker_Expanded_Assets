@@ -21,6 +21,8 @@ v1.2.5
 -Added Police Icons(Xyrrm)
 -Added Challenge Icons
 -Updated menu icons
+-Added Menu Backgrounds
+-Updated discord invite url
 
 v1.2.4
 -Added new Knife Sounds 
