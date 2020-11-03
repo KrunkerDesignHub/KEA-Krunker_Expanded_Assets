@@ -13,6 +13,8 @@ File Creator:
 Solar13#3285
 
 ------------------------------------------------------------------------------------------------
+v1.2.5.1
+-Added Back Preview Icons
 v1.2.5
 -Added Industry 
 -Added glTF map models (hitthemoney)
